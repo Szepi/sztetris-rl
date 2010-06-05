@@ -1,0 +1,53 @@
+Training data for 10*20 table, 119 basis functions 
+---------------------------
+
+gen.#0 	meanS:103.2963 	  avgScore:0
+gen.#1 	meanS:103.5983 	  avgScore:1
+gen.#2 	meanS: 97.4217 	  avgScore:6
+gen.#3 	meanS: 90.0024 	  avgScore:11
+gen.#4 	meanS: 82.1312 	  avgScore:15
+gen.#5 	meanS: 73.4761 	  avgScore:19
+gen.#6 	meanS: 68.5793 	  avgScore:24
+gen.#7 	meanS: 61.1753 	  avgScore:31
+gen.#8 	meanS: 52.9075 	  avgScore:38
+gen.#9 	meanS: 52.4603 	  avgScore:42
+gen.#10 	meanS: 46.2285 	  avgScore:45
+gen.#11 	meanS: 58.4397 	  avgScore:51
+gen.#12 	meanS: 54.4367 	  avgScore:51
+gen.#13 	meanS: 48.3588 	  avgScore:55
+gen.#14 	meanS: 47.9747 	  avgScore:65
+gen.#15 	meanS: 44.3625 	  avgScore:62
+gen.#16 	meanS: 51.0829 	  avgScore:66
+gen.#17 	meanS: 44.8732 	  avgScore:70
+gen.#18 	meanS: 41.1548 	  avgScore:74
+gen.#19 	meanS: 40.5405 	  avgScore:79
+gen.#20 	meanS: 37.5329 	  avgScore:86
+gen.#21 	meanS: 35.6303 	  avgScore:88
+gen.#22 	meanS: 35.7547 	  avgScore:83
+gen.#23 	meanS: 32.8398 	  avgScore:86
+gen.#24 	meanS: 29.6167 	  avgScore:87
+gen.#25 	meanS: 31.9126 	  avgScore:90
+gen.#26 	meanS: 28.4952 	  avgScore:91
+gen.#27 	meanS: 26.1320 	  avgScore:92
+gen.#28 	meanS: 24.1134 	  avgScore:90
+gen.#29 	meanS: 22.6131 	  avgScore:93
+gen.#30 	meanS: 21.9094 	  avgScore:97
+gen.#31 	meanS: 20.0369 	  avgScore:98
+gen.#32 	meanS: 17.6142 	  avgScore:98
+gen.#33 	meanS: 25.3372 	  avgScore:98
+gen.#34 	meanS: 23.0417 	  avgScore:95
+gen.#35 	meanS: 21.5792 	  avgScore:97
+gen.#36 	meanS: 20.1557 	  avgScore:101
+gen.#37 	meanS: 19.0132 	  avgScore:101
+gen.#38 	meanS: 18.2657 	  avgScore:109
+gen.#39 	meanS: 16.7374 	  avgScore:105
+gen.#40 	meanS: 14.5331 	  avgScore:103
+gen.#41 	meanS: 12.8499 	  avgScore:105
+gen.#42 	meanS: 12.0379 	  avgScore:105
+gen.#43 	meanS: 10.6095 	  avgScore:109
+gen.#44 	meanS: 13.2068 	  avgScore:109
+gen.#45 	meanS: 12.0546 	  avgScore:106
+gen.#46 	meanS: 10.4269 	  avgScore:106
+gen.#47 	meanS:  9.9694 	  avgScore:108
+gen.#48 	meanS:  9.5018 	  avgScore:109
+gen.#49 	meanS:  8.9991 	  avgScore:111
